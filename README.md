@@ -26,3 +26,14 @@ python predict.py
 ## Future Work
 - Multi-modal spoof detection
 - Lightweight deployment
+
+## Project Screenshots
+
+### 1. Attendance Marked Successfully
+![Attendance Success](attendance.jpeg)
+
+### 2. Spoofing Attack Detected
+![Spoofing Detected](spoofingdeteced.jpeg)
+
+### 3. Web Interface
+![Web Interface](website.png)
